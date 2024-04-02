@@ -10,6 +10,7 @@ class dog {//main 类
 }
 class pig {//main 类
     public static void main(String[] args) {
-        System.out.println("你是猪!");
+        int i = 250;
+        System.out.println("你是猪!" + i);
     }//main方法
 }
